@@ -1,11 +1,35 @@
 ---
-title: "Mike-yHe.github.io"
+title: "Changfeng(Mikey) He"
+image: ./headshot.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 20em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/changfeng-mikey-he
+    - icon: github
+      text: GitHub
+      href: https://github.com/Mike-yHe
+    - icon: envelope
+      text: Email
+      href: mailto:he59@ucsb.edu
 ---
 
-This is a Quarto website.
+## Welcome!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello! I'm Mikey. Thank you for visiting my website where I share my journey towards a sustainable future.
 
-```{r}
-1 + 1
-```
+## Education
+
+BA in Environmental Studies (2025) \| University of California, Santa Barbara
+
+Minor in Statistics (2025) \| University of California, Santa Barbara
+
+## Experience
+
+UCSB ECP Intern (2023 - present) \| UCSB Sustainability
+
+Habitat Restoration Intern (2023 June- 2023 August) \| Storke Ranch Homeowner Association

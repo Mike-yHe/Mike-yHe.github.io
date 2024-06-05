@@ -1,16 +1,79 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Mike-yHe.github.io",
+    "objectID": "Photography.html",
+    "href": "Photography.html",
+    "title": "Photography",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to my photography portfolio! Here are some of my favorite shots from Santa Barbara.\n\n\n\nThe Pink Sky\n\n\n\n\n\nDawn\n\n\n\n\n\nDawn to the Night\n\n\n\n\n\nOn the road to the hill\n\n\n\n\n\nIv’s dawn\n\n\n\n\n\nThe Blue Sky. Location: Manzanita Village\n\n\n\n\n\nClouds’ Flow\n\n\n\n\n\nMy homie\n\n\n\n\n\nA glimpse of the whale"
+  },
+  {
+    "objectID": "Experience.html",
+    "href": "Experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "The interactive map below displays the areas prone to fire accidents in Santa Barbara from 2007 to 2020. Explore the map to see more details about specific locations."
+  },
+  {
+    "objectID": "Experience.html#envs-40-personal-project-geographic-analysis-of-fire-accident-prone-areas-in-goleta-and-santa-barbara-area",
+    "href": "Experience.html#envs-40-personal-project-geographic-analysis-of-fire-accident-prone-areas-in-goleta-and-santa-barbara-area",
+    "title": "Experience",
+    "section": "",
+    "text": "The interactive map below displays the areas prone to fire accidents in Santa Barbara from 2007 to 2020. Explore the map to see more details about specific locations."
+  },
+  {
+    "objectID": "Experience.html#envs115-project---carbon-emissions-calculation",
+    "href": "Experience.html#envs115-project---carbon-emissions-calculation",
+    "title": "Experience",
+    "section": "ENVS115 project - Carbon Emissions Calculation",
+    "text": "ENVS115 project - Carbon Emissions Calculation\nThis project aims to record and calculate my carbon emissions in one week.\nView my calculations of emissions"
+  },
+  {
+    "objectID": "Experience.html#certifications",
+    "href": "Experience.html#certifications",
+    "title": "Experience",
+    "section": "Certifications",
+    "text": "Certifications\nHere are some of my professional certifications that underscore my commitment to sustainability and environmental excellence:\nView My LEED Green Associate Certification"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! I’m Changfeng (Mikey) He. My professional journey is fueled by a desire to integrate sustainable practices into business models. I am particularly drawn to the areas of Environmental, Social, and Governance (ESG) criteria, Corporate Social Responsibility (CSR), and carbon accounting. I am eager to learn and grow within the sustainability consulting industry, aiming to contribute thoughtfully and effectively to businesses that prioritize both economic and environmental well-being.\nI believe in the possibility of a harmonious balance between robust business strategies and stringent environmental ethics. This belief motivates me to delve into sustainable practices across different sectors, striving to devise strategies that promote both ecological health and economic viability."
+  },
+  {
+    "objectID": "about.html#educational-background",
+    "href": "about.html#educational-background",
+    "title": "About",
+    "section": "Educational Background",
+    "text": "Educational Background\nI am a junior currently furthering my education at the University of California, Santa Barbara, where I am deepening my knowledge in environmental consulting. The university has been a great place for me to challenge my understanding of global environmental issues and refine my skills through practical, hands-on learning.\nDuring my time here, I have engaged in various projects and workshops that apply sustainability principles in real-world settings. These experiences have been invaluable, providing me with a solid foundation in sustainability practices and preparing me to make a thoughtful impact in the field."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Changfeng(Mikey) He",
+    "section": "",
+    "text": "Hello! I’m Mikey. Thank you for visiting my website where I share my journey towards a sustainable future."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Changfeng(Mikey) He",
+    "section": "",
+    "text": "Hello! I’m Mikey. Thank you for visiting my website where I share my journey towards a sustainable future."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Changfeng(Mikey) He",
+    "section": "Education",
+    "text": "Education\nBA in Environmental Studies (2025) | University of California, Santa Barbara\nMinor in Statistics (2025) | University of California, Santa Barbara"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Changfeng(Mikey) He",
+    "section": "Experience",
+    "text": "Experience\nUCSB ECP Intern (2023 - present) | UCSB Sustainability\nHabitat Restoration Intern (2023 June- 2023 August) | Storke Ranch Homeowner Association"
   }
 ]

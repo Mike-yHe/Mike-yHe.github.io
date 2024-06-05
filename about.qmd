@@ -2,8 +2,12 @@
 title: "About"
 ---
 
-About this site
+Hello! I’m Changfeng (Mikey) He. My professional journey is fueled by a desire to integrate sustainable practices into business models. I am particularly drawn to the areas of Environmental, Social, and Governance (ESG) criteria, Corporate Social Responsibility (CSR), and carbon accounting. I am eager to learn and grow within the sustainability consulting industry, aiming to contribute thoughtfully and effectively to businesses that prioritize both economic and environmental well-being.
 
-```{r}
-1 + 1
-```
+I believe in the possibility of a harmonious balance between robust business strategies and stringent environmental ethics. This belief motivates me to delve into sustainable practices across different sectors, striving to devise strategies that promote both ecological health and economic viability.
+
+## Educational Background
+
+I am a junior currently furthering my education at the University of California, Santa Barbara, where I am deepening my knowledge in environmental consulting. The university has been a great place for me to challenge my understanding of global environmental issues and refine my skills through practical, hands-on learning.
+
+During my time here, I have engaged in various projects and workshops that apply sustainability principles in real-world settings. These experiences have been invaluable, providing me with a solid foundation in sustainability practices and preparing me to make a thoughtful impact in the field.

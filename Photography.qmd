@@ -1,0 +1,24 @@
+---
+title: "Photography"
+format: html
+---
+
+Welcome to my photography portfolio! Here are some of my favorite shots from Santa Barbara.
+
+![The Pink Sky](./tinified/pink.jpg "Pink Dawn")
+
+![Dawn](./tinified/dawn.jpg "Dawn")
+
+![Dawn to the Night](./tinified/darkdawn.jpg "Darker Dawn")
+
+![On the road to the hill](./tinified/Hill.jpg "Road to the hill")
+
+![Iv's dawn](./tinified/ivdawn.jpg "Iv's dawn")
+
+![The Blue Sky. Location: Manzanita Village](./tinified/manze.jpg "Manz's Sky")
+
+![Clouds' Flow](./tinified/skyflow.jpg "Clouds' Flow")
+
+![My homie](./tinified/Friends.jpg "Friend")
+
+![A glimpse of the whale](./tinified/whale.jpg "Whale")

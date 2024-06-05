@@ -3,16 +3,25 @@ project:
   output-dir: docs
 
 website:
-  title: "Mike-yHe.github.io"
+  favicon: ./logos/Mikey_He.png
   navbar:
-    left:
+    title: false
+    logo: ./logos/Mikey_He.png
+    logo-alt: "Logo"
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: Photography.qmd
+        text: Photography
+      - Experience.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      - minty
+      - styles.scss
+    mainfont: Nunito
     css: styles.css
     toc: true
 

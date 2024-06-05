@@ -1,0 +1,32 @@
+---
+title: "Experience"
+format: html
+---
+
+## ENVS 40 personal project: Geographic Analysis of Fire Accident Prone Areas in Goleta and Santa Barbara Area
+
+The interactive map below displays the areas prone to fire accidents in Santa Barbara from 2007 to 2020. Explore the map to see more details about specific locations.
+
+```{=html}
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Fire accident prone area 2007-2020 at Santa Barbara certain places" src="//www.arcgis.com/apps/Embed/index.html?webmap=3f141da5f8574a18bee5989035a4c655&extent=-119.9071,34.3838,-119.6987,34.496&home=true&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
+```
+
+## ENVS115 project - Carbon Emissions Calculation
+
+This project aims to record and calculate my carbon emissions in one week.
+
+[View my calculations of emissions](./Week_emission_footprint_ES115.pdf)
+
+## Certifications
+
+Here are some of my professional certifications that underscore my commitment to sustainability and environmental excellence:
+
+[View My LEED Green Associate Certification](./certifications/GA-Certificates.pdf)
+
+
+
+
+
+
+
+
